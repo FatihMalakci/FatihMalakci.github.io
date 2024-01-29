@@ -23,7 +23,7 @@ subtitle                 : "Tech Notes & Articles" #site tagline that appears be
 name                     :
 description              :
 url                      : "https://fatihmalakci.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  :  # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "FatihMalakci/fatihmalakci.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -113,7 +113,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "contact@fatihmalakci.com"
+      url: "mailto:contact@fatihmalakci.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-brands fa-linkedin"
       url: "https://linkedin.com/in/fatihmalakci/"
